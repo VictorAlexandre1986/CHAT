@@ -15,4 +15,4 @@ Chat feito em Python utilizando socket,thread e tkinter para fazer a interface
 
 ## Visualização
 
-<img src="">
+<img src="Video_1657468314.gif">
