@@ -19,4 +19,4 @@ Chat feito em Python utilizando socket,thread e tkinter para fazer a interface
 
 ## Como utilizar
 
-<p>Abrir um terminal navegar ate a pasta do projeto e executar : python server.py para iniciar o servidor, depois abra outros terminais navegue até a pagina do projeto e digite : python client.py </p>
+<p>Abrir um terminal navegar ate a pasta do projeto e executar : python server.py para iniciar o servidor, depois abra outros terminais navegue até a pasta do projeto e digite : python client.py </p>
